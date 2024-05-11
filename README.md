@@ -1,1 +1,3 @@
 # issues
+
+- Collection of issues
